@@ -3,6 +3,7 @@ Commit lần 1
 Commit lần 2
 Commit lần 3
 Commit lần 4
+Bên B commit lần 3
 A Commit lần 5
 A Commit lần 6
 A Commit lần 7
@@ -17,3 +18,5 @@ A Commit lần 15
 
 Bên B commit lần 1
 Bên B commit lần 2
+Bên B commit lần 4
+
